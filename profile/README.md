@@ -7,8 +7,11 @@
 ## Fitur Utama
 - **Monitoring Kesehatan**: Pantau kondisi kesehatan hewan ternak secara real-time.
 - **Pendeteksian Dini Penyakit**: Dengan machine learning, aplikasi ini mampu mendeteksi potensi penyakit sejak dini.
+https://github.com/Ternakami/Ternakami-flutter/releases/tag/1.0
 
-  
+## Download di sini
+**[Download](https://github.com/Ternakami/Ternakami-flutter/releases/tag/1.0)**
+
 ## Teknologi
 - **Frontend**: Dibangun menggunakan Flutter untuk pengalaman pengguna yang responsif dan cross-platform.
 - **Backend**: Menggunakan Node.js untuk mendukung API yang cepat dan scalable.
